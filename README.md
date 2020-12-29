@@ -47,4 +47,4 @@ Window is also a transformer, and extends this interface, it gets a value and re
 Expect some results (sum of any 2 items, median of any 3 sum values)
 6. This program never ends, type ctrl+c to exit.# naive_streaming_engine
 
-last but not least, use real streaming engine frameworks!!! I recommend [Apache Beam](https://github.com/apache/beam)
+Last but not least, use real streaming engine frameworks!!! I recommend [Apache Beam](https://github.com/apache/beam)
