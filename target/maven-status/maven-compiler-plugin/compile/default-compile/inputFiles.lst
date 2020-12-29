@@ -1,0 +1,13 @@
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/fold/MedianTransformer.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/source/Source.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/utils/Filters.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/Transform.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/window/Window.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/Stream.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/MyMainStream.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/sink/Stdout.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/source/stdin/IntegerStdin.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/filter/Filter.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/source/stdin/Stdin.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/fold/Sum.java
+/Users/brachipackter/git-repo/forter-task/src/main/java/streaming/transform/window/FixedWindow.java
