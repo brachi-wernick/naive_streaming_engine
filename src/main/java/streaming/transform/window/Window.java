@@ -1,5 +1,9 @@
 package streaming.transform.window;
 
-public interface Window<T> {
+import streaming.transform.Transform;
+
+import java.util.Collection;
+
+public interface Window<T> extends Transform<T, Collection<T>> {
 
 }

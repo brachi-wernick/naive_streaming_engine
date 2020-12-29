@@ -1,11 +1,9 @@
 package streaming.transform.window;
 
-import streaming.transform.Transform;
-
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class FixedWindow<T> implements Transform<T, Collection<T>>, Window<T> {
+public class FixedWindow<T> implements Window<T> {
 
     public Collection<T> collection = new ArrayList<>();
     Integer size;
