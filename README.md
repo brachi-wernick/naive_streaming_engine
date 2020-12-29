@@ -1,8 +1,8 @@
 # Naive Streaming Engine
 
-Exercise to implement naive streaming engine.
+Exercise to implement a naive streaming engine.
 
-Not support multi threading or multi processors (because it is just an exercise :smile: ).
+Without support of multi threading or multi processors (because it is just an exercise :smile: ).
 
 ### Source
 To read from any Source, implement the `streaming.transform.source.Source` Class.
