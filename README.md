@@ -17,11 +17,11 @@ To implement Transform, implemnt the class `streaming.transform.Transform`.
 
 It gives the ability to perform any logic on any given value.
 
-It need to return a value or null, the new Value can be in any type, can be different from the input type.
+It need to return a value or null, the new Value can be in any type.
 
 ### Window
 
-To implement Windowm, implement the `streaming.transform.window.Window` class.
+To implement Window, implement the `streaming.transform.window.Window` class.
 
 Window is also a transformer, and extends this interface, it gets a value and returns a collection of values, since its purpose is to aggregate values for further transformation.
 
