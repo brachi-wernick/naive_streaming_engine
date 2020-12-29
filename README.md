@@ -39,8 +39,12 @@ Window is also a transformer, and extends this interface, it gets a value and re
 ```
 
 ### Build
-1. Run `mvn clean install `
-2. Run  `java -jar target/naive-steraming-engine-1.0-SNAPSHOT.jar`
-3. Type any int value to the console.
-4. Expect some results (sum of any 2 items, median of any 3 sum values)
-5. This program never ends, type ctrl+c to exit.# naive_streaming_engine
+1. Run `git clone https://github.com/brachi-wernick/naive_streaming_engine.git`
+2. Run `cd naive_streaming_engine`
+3. Run `mvn clean install `
+4. Run  `java -jar target/naive-steraming-engine-1.0-SNAPSHOT.jar`
+5. Type any int value to the console.
+Expect some results (sum of any 2 items, median of any 3 sum values)
+6. This program never ends, type ctrl+c to exit.# naive_streaming_engine
+
+Don't forget to use after that real streaming engine frameworks!!! I recommend [Apache Beam](https://github.com/apache/beam)
