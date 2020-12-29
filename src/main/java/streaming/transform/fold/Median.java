@@ -4,7 +4,7 @@ import streaming.transform.Transform;
 import java.util.Collections;
 import java.util.List;
 
-public class MedianTransformer implements Transform<List<Integer>, Double> {
+public class Median implements Transform<List<Integer>, Double> {
 
     @Override
     public Double transform(List<Integer> stream) {

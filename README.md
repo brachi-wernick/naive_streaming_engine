@@ -34,7 +34,7 @@ Window is also a transformer, and extends this interface, it gets a value and re
                 .apply(new FixedWindow<>(2))
                 .apply(new Sum())
                 .apply(new FixedWindow<>(3))
-                .apply(new MedianTransformer())
+                .apply(new Median())
                 .apply(new Stdout<>());
 ```
 
